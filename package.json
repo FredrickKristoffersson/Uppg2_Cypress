@@ -1,0 +1,15 @@
+{
+  "name": "uppg2_cypress",
+  "version": "1.0.0",
+  "description": "------------------------------------------------------------ Mötesnoteringar: ------------------------------------------------------------ Datum: Måndag 13 november",
+  "main": "booking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.5",
+    "scss": "^0.2.4"
+  }
+}
