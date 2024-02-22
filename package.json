@@ -1,15 +1,16 @@
 {
   "name": "uppg2_cypress",
   "version": "1.0.0",
-  "description": "------------------------------------------------------------ Mötesnoteringar: ------------------------------------------------------------ Datum: Måndag 13 november",
+  "description": "",
   "main": "booking.js",
   "scripts": {
+    "sass:watch": "sass --no-source-map --watch src/main.scss main.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.6.5",
-    "scss": "^0.2.4"
+    "sass": "^1.71.1"
   }
 }
